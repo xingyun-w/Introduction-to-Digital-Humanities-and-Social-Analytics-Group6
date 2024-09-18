@@ -1,8 +1,6 @@
+### Assignment 1: [Draft] Project Proposal and Group Charter
 
-
-Assignment 1: [Draft] Project Proposal and Group Charter
-
-Group 6
+## Group 6
 Robert Cornelis
 Rob Goudriaan
 Xingyun Wang
