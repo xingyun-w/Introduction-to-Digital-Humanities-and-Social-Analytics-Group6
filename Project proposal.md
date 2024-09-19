@@ -1,24 +1,24 @@
-### Assignment 1: [Draft] Project Proposal and Group Charter
+# Assignment 1: Project Proposal and Group Charter
 
-## Group 6
-Robert Cornelis
-Rob Goudriaan
-Xingyun Wang
-[Other Name]
+### Group 6
+*Robert Cornelis (2787732)  
+Rob Goudriaan  
+Joanna Rejnowska  
+Nikol Velkova  
+Xingyun Wang*
 
-Introduction to Digital Humanities and Social Analytics 
-
+### Course:
+Introduction to Digital Humanities and Social Analytics  
 Vrije Universiteit Amsterdam
 
-[Date]
-Research Question
+## Research Question
 The research question we have chosen to answer, using our dataset is as follows: 
 
-”What were the most prevalent novel narrative forms used within the French novel data set from 1751 to 1800, and what were the possible reasons for this?”
+*”What were the most prevalent novel narrative forms used within the French novel data set from 1751 to 1800, and what were the possible reasons for this?”*
 
 In addition, we will try to answer the following two sub-questions, which will help us to answer the main question:
-“Is there any clear pattern or shift in in novel narrative forms be observed over time?”
-“How did the distribution of authors by gender change between 1751 and 1800, and how does this relate to novel narrative forms?”
+- *“Is there any clear pattern or shift in in novel narrative forms be observed over time?”*
+- *“How did the distribution of authors by gender change between 1751 and 1800, and how does this relate to novel narrative forms?”*
 
 [Thesis statement.]
 
