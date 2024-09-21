@@ -67,9 +67,45 @@ Pre-processing of the dataset
 
 
 Sources
+Famà, Santi Luca. 2023. “Decentering the Human through Narrative Forms: The ‘Impossible Closure’ of Gadda’s That Awful Mess and VanderMeer’s Southern Reach Trilogy”. Incontri. Rivista Europea Di Studi Italiani 37 (1). 
+https://doi.org/10.18352/inc12758.
+
+Hinzmann, Marc, Julian Röttgermann, Andreas Klee, Marc Steffes, and Christof Schöch. 2021. "The French Enlightenment Novel as a Graph? Potentials and Challenges in the Construction of a Knowledge Network." 
+DOI: 10.5281/zenodo.5840088
+
+Klee, Anne, und Julia Röttgermann. 2022. „„Nuit, Correspondance, sentiment”: Topic Modeling Auf Einem Korpus Von französischen Romanen 1750-1800“. Apropos [Perspektiven Auf Die Romania], Nr. 9 (Dezember):57-86. https://doi.org/10.15460/apropos.9.1888.
+
+Zeller, Nancy. 1995. “Narrative Strategies for Case Reports.” International Journal of Qualitative Studies in Education 8 (1): 75–88. 
+doi:10.1080/0951839950080108.
+
 
 Group Charter 
+1. What are the goals of our group? Deliverables and deadlines;
+We aim to have the work done 3 days before the course deadline in order to create a buffer in case of unforeseen circumstances.
 
+What the individual members should like to learn from it - All members agree that learning the balance between time investment and quality of the deliverables is a priority. 
+
+2. What are the strengths of our group and its members?
+Nikol: literature research, summarising, academic writing  
+Xingyun: Programming, data visualisation,critical study
+Robert: Writing & editing, media design, controlling/organising
+Joanna: critical text analysis, academic writing
+
+3. What are our pressures? - Additional commitments and side projects (time)
+
+4. What communication strategies will we use to communicate? - Most communication will take place through WhatsApp, with file transfer and sharing through the group’s Google Drive. We aim to respond daily.
+
+5. How many meetings will be organized to work on the project together? - Weekly meetings Wednesdays at 13.30, which are logged individually and then integrated into the charter / updated.
+
+6. Planning
+
+Meeting 1 - 11.09
+	All members - preliminary literature research and RQ ideas
+Meeting 2 - 18.09
+	Rob - articles, descriptions and relevance for research proposal 
+	Robert, Xingyun - dataset description/problematization analysis, data preprocessing 
+plan 
+	Nikol, Joanna - RQ finalisation and thesis statement 
 
 
 
