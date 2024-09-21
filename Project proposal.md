@@ -5,7 +5,7 @@ Introduction to Digital Humanities and Social Analytics
 Vrije Universiteit Amsterdam
 
 ### Group 6
-*Robert Cornelis 
+*Robert Cornelis  
 Rob Goudriaan  
 Joanna Rejnowska  
 Nikol Velkova  
