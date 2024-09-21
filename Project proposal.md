@@ -66,7 +66,7 @@ What will we do with the metadata that is unknown and why?
 Pre-processing of the dataset
 
 
-Sources
+## Sources
 Famà, Santi Luca. 2023. “Decentering the Human through Narrative Forms: The ‘Impossible Closure’ of Gadda’s That Awful Mess and VanderMeer’s Southern Reach Trilogy”. Incontri. Rivista Europea Di Studi Italiani 37 (1). 
 https://doi.org/10.18352/inc12758.
 
@@ -79,7 +79,7 @@ Zeller, Nancy. 1995. “Narrative Strategies for Case Reports.” International 
 doi:10.1080/0951839950080108.
 
 
-Group Charter 
+## Group Charter 
 1. What are the goals of our group? Deliverables and deadlines;
 We aim to have the work done 3 days before the course deadline in order to create a buffer in case of unforeseen circumstances.
 
@@ -97,7 +97,7 @@ Joanna: critical text analysis, academic writing
 
 5. How many meetings will be organized to work on the project together? - Weekly meetings Wednesdays at 13.30, which are logged individually and then integrated into the charter / updated.
 
-6. Planning
+# 6. Planning
 
 Meeting 1 - 11.09
 	All members - preliminary literature research and RQ ideas
