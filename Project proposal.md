@@ -97,14 +97,13 @@ Joanna: critical text analysis, academic writing
 
 5. How many meetings will be organized to work on the project together? - Weekly meetings Wednesdays at 13.30, which are logged individually and then integrated into the charter / updated.
 
-# 6. Planning
+6. Planning
 
-Meeting 1 - 11.09
+**Meeting 1 - 11.09**
 	All members - preliminary literature research and RQ ideas
-Meeting 2 - 18.09
+**Meeting 2 - 18.09**
 	Rob - articles, descriptions and relevance for research proposal 
-	Robert, Xingyun - dataset description/problematization analysis, data preprocessing 
-plan 
+	Robert, Xingyun - dataset description/problematization analysis, data preprocessing plan 
 	Nikol, Joanna - RQ finalisation and thesis statement 
 
 
