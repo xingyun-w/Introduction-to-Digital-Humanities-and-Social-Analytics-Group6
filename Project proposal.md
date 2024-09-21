@@ -1,15 +1,15 @@
 # Assignment 1: Project Proposal and Group Charter
 
+### Course:
+Introduction to Digital Humanities and Social Analytics  
+Vrije Universiteit Amsterdam
+
 ### Group 6
-*Robert Cornelis (2787732)  
+*Robert Cornelis 
 Rob Goudriaan  
 Joanna Rejnowska  
 Nikol Velkova  
 Xingyun Wang*
-
-### Course:
-Introduction to Digital Humanities and Social Analytics  
-Vrije Universiteit Amsterdam
 
 ## Research Question
 The research question we have chosen to answer, using our dataset is as follows: 
