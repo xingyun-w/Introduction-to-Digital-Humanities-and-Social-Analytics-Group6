@@ -31,10 +31,10 @@ The form of stories, shaped by patterns, sequence, and perspective, reflects not
 The most critical aspect is narrative perspective, which, combined with action, profoundly influences reader comprehension (Zeller, 1995). Authors' techniques shape how facts and events are presented.  
 
 ### Notes
-1. Hinzmann, Marc, Julian Röttgermann, Andreas Klee, Marc Steffes, and Christof Schöch. 2021. "The French Enlightenment Novel as a Graph? Potentials and Challenges in the Construction of a Knowledge Network." DOI: 10.5281/zenodo.5840088
-2. Klee, Anne, und Julia Röttgermann. 2022. „„Nuit, Correspondance, sentiment”: Topic Modeling Auf Einem Korpus Von französischen Romanen 1750-1800“. Apropos [Perspektiven Auf Die Romania], Nr. 9 (Dezember):57-86. https://doi.org/10.15460/apropos.9.1888.
-3. Famà, Santi Luca. 2023. “Decentering the Human through Narrative Forms: The ‘Impossible Closure’ of Gadda’s That Awful Mess and VanderMeer’s Southern Reach Trilogy”. Incontri. Rivista Europea Di Studi Italiani 37 (1). https://doi.org/10.18352/inc12758.
-4. Zeller, Nancy. 1995. “Narrative Strategies for Case Reports.” International Journal of Qualitative Studies in Education 8 (1): 75–88. doi:10.1080/0951839950080108.  
+1. Hinzmann, Marc, Julian Röttgermann, Andreas Klee, Marc Steffes, and Christof Schöch. 2021. *"The French Enlightenment Novel as a Graph? Potentials and Challenges in the Construction of a Knowledge Network."* DOI: 10.5281/zenodo.5840088
+2. Klee, Anne, und Julia Röttgermann. 2022. *„„Nuit, Correspondance, sentiment”: Topic Modeling Auf Einem Korpus Von französischen Romanen 1750-1800“*. Apropos [Perspektiven Auf Die Romania], Nr. 9 (Dezember):57-86. https://doi.org/10.15460/apropos.9.1888.
+3. Famà, Santi Luca. 2023. *“Decentering the Human through Narrative Forms: The ‘Impossible Closure’ of Gadda’s That Awful Mess and VanderMeer’s Southern Reach Trilogy”*. Incontri. Rivista Europea Di Studi Italiani 37 (1). https://doi.org/10.18352/inc12758.
+4. Zeller, Nancy. 1995. *“Narrative Strategies for Case Reports.”* International Journal of Qualitative Studies in Education 8 (1): 75–88. doi:10.1080/0951839950080108.  
 
 
 ## Nature of the Dataset
@@ -51,7 +51,7 @@ fig. 2 - List of metadata parameters
 The metadata spans a wide range of parameters, including details about the author, publisher, birthplace, and place of publication. While much of this data is useful, some is redundant or irrelevant, and various observations lack certain parameters. Thus, the dataset requires careful scrutiny and filtering, with missing data properly coded.  
 
 ### Notes
-5. Röttgermann, Julia. “The Collection Of Eighteenth-Century French Novels 1751–1800”, Journal Of Open Humanities Data 10 (1 januari 2024), https://doi.org/10.5334/johd.201.  
+5. Röttgermann, Julia. *“The Collection Of Eighteenth-Century French Novels 1751–1800”*, Journal Of Open Humanities Data 10 (1 januari 2024), https://doi.org/10.5334/johd.201.  
 
 
 ## Pre-processing of the dataset
@@ -75,15 +75,15 @@ Data will be grouped by narrative form and gender, and analyzed by decade to tra
 
 
 ## References
-Famà, Santi Luca. 2023. “Decentering the Human through Narrative Forms: The ‘Impossible Closure’ of Gadda’s That Awful Mess and VanderMeer’s Southern Reach Trilogy”. Incontri. Rivista Europea Di Studi Italiani 37 (1). https://doi.org/10.18352/inc12758.
+Famà, Santi Luca. 2023. *“Decentering the Human through Narrative Forms: The ‘Impossible Closure’ of Gadda’s That Awful Mess and VanderMeer’s Southern Reach Trilogy”.* Incontri. Rivista Europea Di Studi Italiani 37 (1). https://doi.org/10.18352/inc12758.
 
-Hinzmann, Marc, Julian Röttgermann, Andreas Klee, Marc Steffes, and Christof Schöch. 2021. "The French Enlightenment Novel as a Graph? Potentials and Challenges in the Construction of a Knowledge Network." DOI: 10.5281/zenodo.5840088
+Hinzmann, Marc, Julian Röttgermann, Andreas Klee, Marc Steffes, and Christof Schöch. 2021. *"The French Enlightenment Novel as a Graph? Potentials and Challenges in the Construction of a Knowledge Network."* DOI: 10.5281/zenodo.5840088
 
-Klee, Anne, und Julia Röttgermann. 2022. „„Nuit, Correspondance, sentiment”: Topic Modeling Auf Einem Korpus Von französischen Romanen 1750-1800“. Apropos [Perspektiven Auf Die Romania], Nr. 9 (Dezember):57-86. https://doi.org/10.15460/apropos.9.1888.
+Klee, Anne, und Julia Röttgermann. 2022. *„„Nuit, Correspondance, sentiment”: Topic Modeling Auf Einem Korpus Von französischen Romanen 1750-1800“.* Apropos [Perspektiven Auf Die Romania], Nr. 9 (Dezember):57-86. https://doi.org/10.15460/apropos.9.1888.
 
-Röttgermann, Julia. “The Collection Of Eighteenth-Century French Novels 1751–1800”, Journal Of Open Humanities Data 10 (1 januari 2024), https://doi.org/10.5334/johd.201.
+Röttgermann, Julia. *“The Collection Of Eighteenth-Century French Novels 1751–1800”*, Journal Of Open Humanities Data 10 (1 januari 2024), https://doi.org/10.5334/johd.201.
 
-Zeller, Nancy. 1995. “Narrative Strategies for Case Reports.” International Journal of Qualitative Studies in Education 8 (1): 75–88. doi:10.1080/0951839950080108.
+Zeller, Nancy. 1995. *“Narrative Strategies for Case Reports.”* International Journal of Qualitative Studies in Education 8 (1): 75–88. doi:10.1080/0951839950080108.
 
 
 # Group Charter 
