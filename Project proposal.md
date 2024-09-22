@@ -88,10 +88,10 @@ Zeller, Nancy. 1995. *“Narrative Strategies for Case Reports.”* Internationa
 
 # Group Charter 
 ## Group goals
-Our main goal is to develop the skills to think like digital humanities researchers, evaluate existing perspectives, and propose original insights. To do this, all team members must engage critically with the relevant literature. We also aim to learn from each other, drawing on our diverse backgrounds, and foster lively discussions. Meeting deadlines is important, not as an end, but as a way to demonstrate our progress to our professors.  
+Our main goal is to develop the skills to think like digital humanities researchers, evaluate existing perspectives, and propose original insights. We also aim to learn from each other, drawing on our diverse backgrounds, and foster lively discussions. 
 
 ## Individual and group strengths
-Table one lists the skills for each team member. It is evident that each individual possesses unique qualities. It would be beneficial to utilize this information effectively and learn from one another. When, for instance, a task requires coding, it is important to ensure that the individual with the relevant skills is assigned to it, while others observe and learn from the process.  
+Table one lists the skills for each team member. It is evident that each individual possesses unique qualities.  
 
 | Robert                 | Rob               | Joanna                 | Nikol               | Xingyun
 |------------------------|-------------------|------------------------|---------------------|---------------
@@ -101,32 +101,23 @@ Table one lists the skills for each team member. It is evident that each individ
 
 Table 1: Overview of skills  
 
-## Pressures
-Deadlines and compulsory attendance are pressures in this course, but with clear planning and communication, they can be easily managed. Since this minor is voluntary, we expect others to be intrinsically motivated to learn new skills.  
-
-## Communication strategies
-We’ll communicate via WhatsApp, aiming for a response time of under two hours. Weekly two-hour meetings at the VU will allow us to brainstorm, divide tasks, and work together. All assignment documents will be stored in a shared drive, and we’ll respond to comments within a day.  
+## Pressures and communication
+Deadlines and compulsory attendance are pressures in this course, but with clear planning and communication, they can be easily managed. The latter will take place via WhatsApp, with file sharing happening through GoogleDrive. With both, the main aim is a response within the day. Weekly two-hour meetings at the VU will allow us to brainstorm, divide tasks, and work together.
 
 ## Planning
 Table two outlines the planning, along with a brief overview of the meetings.  
 
-- 25-09-24: We’ll assign tasks for the group project. If we’ve received feedback on our proposal, we’ll discuss, reflect, and adjust our plan. We’ll also rehearse our presentation to check the timing.  
-- 02-10-24: This meeting will focus on preparing the data for analysis, ensuring everyone understands the decisions. One person will document the process for inclusion in our research.  
-- 09-10-24: By this meeting, the data must be analyzed. We’ll discuss the results and their implications, then reassign tasks for writing the introduction, methods, etc.  
-- 16-10-24: We’ll finalize details, address any challenges, and discuss how we want to present our research.  
-
-
-| Date     | Task                                                           |
-|----------|----------------------------------------------------------------|
-| 22-09-24 | Deadline: Assignment 1 & Group Charter                         |
-| 25-09-24 | Meeting                                                        |
-| 25-09-24 | Presentation  -discussion of feedback -rehearse presentation   |
-| 02-10-24 | Meeting -data analysis                                         |
-| 09-10-24 | Meeting -results and implications of analysis -task assignment |
-| 16-10-24 | Meeting -address challenges -discuss how to present research   |
-| 18-10-24 | Deadline: Documentation of the workflow                        |
-| 18-10-24 | Deadline:Project presentation                                  |
-| 21-10-24 | Final exam                                                     |
+| Date     | Task                                                                      |
+|----------|---------------------------------------------------------------------------|
+| 22-09-24 | Deadline: Assignment 1 & Group Charter                                    |
+| 25-09-24 | Meeting <br> - discussion of feedback <br> - rehearse presentation        |
+| 25-09-24 | Presentation                                                              |
+| 02-10-24 | Meeting <br> -data analysis                                               |
+| 09-10-24 | Meeting <br> -results and implications of analysis <br> -task assignment  |
+| 16-10-24 | Meeting <br> -address challenges <br> -discuss how to present research    |
+| 18-10-24 | Deadline: Documentation of the workflow                                   |
+| 18-10-24 | Deadline:Project presentation                                             |
+| 21-10-24 | Final exam                                                                |
 
 Table 2: Deadline of assignments and time schedule
 
