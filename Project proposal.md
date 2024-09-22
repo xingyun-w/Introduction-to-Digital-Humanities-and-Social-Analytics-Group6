@@ -80,36 +80,3 @@ doi:10.1080/0951839950080108.
 
 
 ## Group Charter 
-1. What are the goals of our group? Deliverables and deadlines;
-We aim to have the work done 3 days before the course deadline in order to create a buffer in case of unforeseen circumstances.
-
-What the individual members should like to learn from it - All members agree that learning the balance between time investment and quality of the deliverables is a priority. 
-
-2. What are the strengths of our group and its members?
-Nikol: literature research, summarising, academic writing  
-Xingyun: Programming, data visualisation,critical study
-Robert: Writing & editing, media design, controlling/organising
-Joanna: critical text analysis, academic writing
-
-3. What are our pressures? - Additional commitments and side projects (time)
-
-4. What communication strategies will we use to communicate? - Most communication will take place through WhatsApp, with file transfer and sharing through the group’s Google Drive. We aim to respond daily.
-
-5. How many meetings will be organized to work on the project together? - Weekly meetings Wednesdays at 13.30, which are logged individually and then integrated into the charter / updated.
-
-6. Planning
-
-**Meeting 1 - 11.09**
-	All members - preliminary literature research and RQ ideas
-**Meeting 2 - 18.09**
-	Rob - articles, descriptions and relevance for research proposal 
-	Robert, Xingyun - dataset description/problematization analysis, data preprocessing plan 
-	Nikol, Joanna - RQ finalisation and thesis statement 
-
-
-
-
-
-
-
-
