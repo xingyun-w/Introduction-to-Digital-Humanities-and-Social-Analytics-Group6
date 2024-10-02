@@ -15,20 +15,28 @@ Xingyun Wang*
 
 
 ## Research Question
-*”How did the distribution of authors by gender change between 1751 and 1800, and 
-what was the relationship between this and the narrative forms of the novel?”  
-Subquestion:  
-“To what extent does the narrative form from 1751 to 1800 reflect societal changes and developments within cultural movements?”*  
+The research question we have chosen to answer, using our dataset is as follows: 
+”What trends are we able to observe in the dataset of French novellas between 1751 and 1800?”
 
+Furthermore, we will endeavor to respond to the following sub-question, which will assist us in developing a more comprehensive response to our primary query:
+“What trends are we able to observe based on the parameter gender”
+“What trends are we able to observe based on the parameter form”
+“What trends are we able to observe based on the parameter Publication Date”
+“What trends are we able to observe based on the author’s date of birth?
+“What trends are we able to observe based on the author’s occupation?
+
+  Several points need clarification in relation to our main question. This is due to the fact that our primary inquiry comprises two key elements: gender distribution on the one hand and the novel's stylistic approach on the other. In this investigation, we will examine the potential interrelationship between these two aspects.
+	Firstly, it is important to clarify that the term 'gender' refers to the gender of the author of the novella. This is an interesting parameter, as it can provide valuable insights into gender dynamics during the French early modern period. Secondly, the term "novel narrative forms" refers to the narrative techniques and strategies employed in novel corpora, with a particular focus on the narrator's perspective. This parameter is worthy of further investigation, as it may yield insights into gender dynamics during the French early modern period. Accordingly, this is subjected to further scrutiny within the context of our sub-question.
 
 ## Thesis statement
-The latter half of the 18th century saw a rise in female authors and their impact on novel narrative forms. By "novel narrative forms," we refer to the narrative techniques, especially the narrator's perspective. From 1751 to 1800, there was a shift toward introspective, emotion-driven narratives, such as epistolary and first-person forms, reflecting Romanticism's focus on individual emotion.
+“The latter half of the 18th century was marked by a growth in the prominence of female authors and their influence on novel narrative forms. A clarification is needed in relation to our main question. The term "novel narrative forms" refers to the narrative techniques and strategies employed in novel corpora, with a particular focus on the narrator's perspective. The period from 1751 to 1800 witnessed a move towards introspective and emotion-based narratives. Examples are epistolary and first-person narratives, reflecting cultural shifts and movements rooted in the Romantic focus on individual emotion.”
 
-Existing literature primarily addresses the creation of the dataset<sup>1</sup> and focuses on 'topic modeling' using computational techniques<sup>2</sup>. This reveals a gap for research using the dataset as a tool to explore Humanities questions.
-
-The form of stories, shaped by patterns, sequence, and perspective, reflects not only the novel itself but also the normative realities of the time<sup>3</sup>. Stories offer insights into the social, cultural, and historical contexts of their era<sup>3, 4</sup>.
-
-The most critical aspect is narrative perspective, which, combined with action, profoundly influences reader comprehension (Zeller, 1995). Authors' techniques shape how facts and events are presented.  
+## Relevance of research question
+  The dataset assigned to us concerns 'A Collection of Eighteenth-Century French Novels 1751-1800'. This dataset was first released in 2020 and last updated in December 2023. First, the available literature focuses on the creation of the dataset <sup>1</sup>, which allows us to identify its strengths and weaknesses. Second, existing research based on the created dataset has mainly focused on 'topic modeling', research based on complex computational techniques <sup>2</sup>. This reveals a gap for research using the dataset as a tool to explore Humanities questions.
+  We can see that there is concrete work being done with humanities data, but what seems to be missing is research that focuses concretely on a humanities question, using the available dataset merely as a tool. 
+  The existing (meta)data offers us three interesting points on which research can be done, namely (1.) gender, (2.) narrative perspective, and (3.) date of publication. As Digital Humanities students, given the available data, we are interested in normative realities, linguistic issues and gender norms. We think it would be interesting to connect these issues in order to arrive at interesting findings.
+  The form in which stories are written, created by patterns, sequence and perspective, reflects not only the literary object, in this case the novel, but also the normative reality of the time in which they were written, as well as the lives of the people living in that period<sup>3</sup>. As stories reflect the natural world and its context, they offer a stable understanding of the social, cultural and historical context of their era<sup>3, 4</sup>. 
+  From our perspective, the most significant aspect of this form is the narrative perspective, which, in conjunction with the action, exerts a profound influence on the reader's perspective and comprehension<sup>4</sup>. This is because facts and incidents are shaped on paper by the authors' techniques, structure, and perspectives.
 
 ### Notes
 1. Hinzmann, Marc, Julian Röttgermann, Andreas Klee, Marc Steffes, and Christof Schöch. 2021. *"The French Enlightenment Novel as a Graph? Potentials and Challenges in the Construction of a Knowledge Network."* DOI: 10.5281/zenodo.5840088
@@ -39,19 +47,22 @@ The most critical aspect is narrative perspective, which, combined with action, 
 
 ## Nature of the Dataset
 
+  The dataset consists of 200 french novels written during the enlightenment era and their metadata. This era is characterized by its exploration of contrasting ideas, social diversity, and the complex synthesis of material and spiritual realms, often challenging rigid societal roles and conventional forms of knowledge, especially in relation to self-understanding<sup>4</sup>.
+
 ![Fig. 1 - Comparison of proportion of narrative forms per decade<sup>5</sup>](https://github.com/xingyun-w/Introduction-to-Digital-Humanities-and-Social-Analytics-Group6/blob/e3c2db4e6920796d1bc05763f87e075e44d5a484/resources/img/Screenshot%202024-09-22%20at%2022.09.42.png)  
 Fig. 1 - Comparison of proportion of narrative forms per decade<sup>5</sup>  
 
-The authors of the corpus designed it to reflect the historical distribution of gender, publication year, and narrative form, creating a balanced dataset representative of the broader body of works<sup>5</sup>. This allows us to extrapolate conclusions to a larger extent, though caution is needed regarding unbalanced parameters. Since the novels are in French and translation may lose nuance, we opted to focus initially on the metadata, though the text data is available if keyword-based trends warrant further analysis.  
-
+  The authors / compilers of the corpus have stated that they have composed the body to reflect the historical distribution of the parameters gender, year of first publication, and narrative form<sup>5</sup>. Given that we are thus working with a balanced database representative of the general body of works, our conclusions can to an extent be extrapolated to this larger body of data However as not all parameters are balanced, we do need to be attentive to not introduce unbalanced parameters into our analysis. 
+  As the novels themselves are written in the French language and translation will take away from the needed nuance in the texts, we have chosen not to use the corpus itself initially, but rather focus on the metadata at hand for our analysis. However the data is available in case we do find observable trends in the metadata that we further wish to analyze based on keywords.
 
 ![fig. 2 - List of metadata parameters](https://github.com/xingyun-w/Introduction-to-Digital-Humanities-and-Social-Analytics-Group6/blob/e3c2db4e6920796d1bc05763f87e075e44d5a484/resources/img/Screenshot%202024-09-22%20at%2022.40.22.png)  
 fig. 2 - List of metadata parameters  
 
-The metadata spans a wide range of parameters, including details about the author, publisher, birthplace, and place of publication. While much of this data is useful, some is redundant or irrelevant, and various observations lack certain parameters. Thus, the dataset requires careful scrutiny and filtering, with missing data properly coded.  
+The metadata covers a wide range of parameters, divided between subjects ranging from data covering the author, the publisher, the place of birth and place of publication. Though the larger part of this data is valuable to us, some of it is not, or refers to data that is already present in the metadataset. Furthermore, various parameters are missing for multiple observations. The set therefore needs to be scrutinized and filtered before use, with missing data coded as such.
 
 ### Notes
-5. Röttgermann, Julia. *“The Collection Of Eighteenth-Century French Novels 1751–1800”*, Journal Of Open Humanities Data 10 (1 januari 2024), https://doi.org/10.5334/johd.201.  
+5. DiPiero, Thomas. “Enlightenmentliterature.” Chapter. In *The Cambridge Companion to the French Enlightenment*, edited by Daniel Brewer, 137–52. Cambridge Companions to Literature. Cambridge: Cambridge University Press, 2014.
+6. Röttgermann, Julia. *“The Collection Of Eighteenth-Century French Novels 1751–1800”*, Journal Of Open Humanities Data 10 (1 januari 2024), https://doi.org/10.5334/johd.201.  
 
 
 ## Pre-processing of the dataset
@@ -75,6 +86,8 @@ Data will be grouped by narrative form and gender, and analyzed by decade to tra
 
 
 ## References
+DiPiero, Thomas. *“Enlightenmentliterature.” Chapter.* In The Cambridge Companion to the French Enlightenment, edited by Daniel Brewer, 137–52. Cambridge Companions to Literature. Cambridge: Cambridge University Press, 2014.
+
 Famà, Santi Luca. 2023. *“Decentering the Human through Narrative Forms: The ‘Impossible Closure’ of Gadda’s That Awful Mess and VanderMeer’s Southern Reach Trilogy”.* Incontri. Rivista Europea Di Studi Italiani 37 (1). https://doi.org/10.18352/inc12758.
 
 Hinzmann, Marc, Julian Röttgermann, Andreas Klee, Marc Steffes, and Christof Schöch. 2021. *"The French Enlightenment Novel as a Graph? Potentials and Challenges in the Construction of a Knowledge Network."* DOI: 10.5281/zenodo.5840088
