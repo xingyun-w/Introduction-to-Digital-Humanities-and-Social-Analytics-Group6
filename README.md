@@ -4,6 +4,8 @@ The latter half of the 18th century saw a rise in female authors and their impac
 
 This project involves analyzing the relationship between gender and narrative forms in French novels from 1750 to 1800. The analysis uses a Chi-square test of independence to determine whether there are significant associations between author gender and the chosen narrative forms for each 5-year period. The project also visualizes standardized residuals for significant periods and presents a summary of p-values across time intervals.
 
+The dataset used for this project is sourced from https://github.com/MiMoText/balance_novels as course material for the Digital Humanities course. 
+
 ## Prerequisites
 
 To run the provided Python script, you need the following software and libraries installed on your machine:
@@ -59,3 +61,11 @@ This script performs the following actions:
 ## Notes
 
 Ensure that the dataset contains the correct column names ('firsted-yr', 'form', 'au-gender') to avoid errors.
+
+## Reuse Potential
+- Linguistic Analysis: Researchers can use the dataset for linguistic tasks, such as analyzing language used by male versus female authors.
+- Cultural Analysis: Further studies can investigate shifts in cultural representation based on narrative form, especially in the context of Enlightenment-era literature.
+  
+## Sources
+- Brewer, D. (Ed.). (2014). The Cambridge companion to the French enlightenment. Cambridge University Press.
+- Hunter, J. P. (1996). The novel and social/cultural history. The Cambridge Companion to the Eighteenth-Century Novel, 9-40.
