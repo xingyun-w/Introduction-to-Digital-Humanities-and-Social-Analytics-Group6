@@ -4,7 +4,7 @@ The latter half of the 18th century saw a rise in female authors and their impac
 
 This project involves analyzing the relationship between gender and narrative forms in French novels from 1750 to 1800. The analysis uses a Chi-square test of independence to determine whether there are significant associations between author gender and the chosen narrative forms for each 5-year period. The project also visualizes standardized residuals for significant periods and presents a summary of p-values across time intervals.
 
-The dataset used for this project is sourced from https://github.com/MiMoText/balance_novels as course material for the Digital Humanities course. 
+The dataset used for this project is sourced from https://github.com/MiMoText/roman18/blob/master/metadata.tsv as course material for the Digital Humanities course. 
 
 ## Prerequisites
 
