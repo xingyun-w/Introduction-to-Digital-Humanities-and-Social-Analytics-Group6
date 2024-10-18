@@ -12,22 +12,22 @@ Nikol Velkova
 Xingyun Wang
 
 ## Introduction, context & project’s objectives
-The present study analyses data on French novels from the eighteenth century, also known as the 'Enlightenment'. The term 'Enlightenment' refers to a set of ideas, ideals and cultural practices that emerged from an existing intellectual and socio-political order. This emergence may be characterised as occurring either by opposing the existing order from the outside, or by reshaping it from within (Brewer, 2014)<sup>x</sup>  . Specifically, new attempts were made within the Enlightenment to establish a new foundation for knowledge and to adopt a different epistemological approach (Brewer, 2014)<sup>x</sup>. 
+The present study analyses data on French novels from the eighteenth century, also known as the 'Enlightenment'. The term 'Enlightenment' refers to a set of ideas, ideals and cultural practices that emerged from an existing intellectual and socio-political order. This emergence may be characterised as occurring either by opposing the existing order from the outside, or by reshaping it from within<sup>1</sup>. Specifically, new attempts were made within the Enlightenment to establish a new foundation for knowledge and to adopt a different epistemological approach<sup>1</sup>. 
 
-A particular focus of this study is the emergence and development of a new literary form during this period: the novella. This literary form describes stories of a contemporary individual in a recognisable social and cultural context (Hunter, 1996)<sup>x</sup>. In order to gain an understanding of this development, it is essential to consider the prevailing view at the end  of the seventeenth century. At that time, literature was subject to generic conventions and rules and was only accessible to a limited part of the population, specifically the upper class (Dipiero, in Brewer, 2014)<sup>x</sup>. This resulted in the creation of literature that conformed to the established principles of aestheticians such as Aristotle and Horace. This gave the elite a sense of historical continuity and elevation, which was an important aspect of their identity (Dipiero, in Brewer, 2014)<sup>x</sup>.  
+A particular focus of this study is the emergence and development of a new literary form during this period: the novella. This literary form describes stories of a contemporary individual in a recognisable social and cultural context<sup>2</sup>. In order to gain an understanding of this development, it is essential to consider the prevailing view at the end  of the seventeenth century. At that time, literature was subject to generic conventions and rules and was only accessible to a limited part of the population, specifically the upper class<sup>1</sup>. This resulted in the creation of literature that conformed to the established principles of aestheticians such as Aristotle and Horace. This gave the elite a sense of historical continuity and elevation, which was an important aspect of their identity<sup>1</sup>.  
 
-During the Enlightenment, however, authors began to question this view. Indeed, they were convinced that democracy could be strengthened through the aesthetic use of language, which enabled the expression of ideas and became increasingly robust when spread among citizens.  Additionally, the perception of everyday fictional narratives underwent a transformation. Novels were initially seen as deceptive and detrimental to moral behaviour, but then emerged as a means of depicting, interpreting and critiquing contemporary social relations (Dipiero, in Brewer, 2014)<sup>x</sup>.  
+During the Enlightenment, however, authors began to question this view. Indeed, they were convinced that democracy could be strengthened through the aesthetic use of language, which enabled the expression of ideas and became increasingly robust when spread among citizens.  Additionally, the perception of everyday fictional narratives underwent a transformation. Novels were initially seen as deceptive and detrimental to moral behaviour, but then emerged as a means of depicting, interpreting and critiquing contemporary social relations<sup>1</sup>.  
 
 In this study, we will therefore focus on three variables provided to us within an existing data set concerning novellas published between 1750 and 1800: first, the narrative form in which they were written, second, the gender of the author by whom they were written, and third, the time in which they were published. To investigate these aspects, we formulated the following research question:  
 
 *'What trends can we observe in the choice of narrative form in French novels between 1750 and 1800, and how does this relate to the gender of the author over time?'*  
 
-The main aim of our approach is to shed light on an aspect of the writing style of female and male novella writers during the Enlightenment. This objective is important for several reasons. First, research on novellas was overlooked for a long time, as they were seen as sensationalist works and considered unsuitable for academic research (Hunter, 1996)<sup>x</sup>. Second, the central cultural value of novellas was often ignored (Hunter, 1996)<sup>x</sup>. Most importantly, however, the role, influence and practices of women in traditional historiography and their position in public life have not been sufficiently studied (Hunter, 1996).<sup>x</sup>  
+The main aim of our approach is to shed light on an aspect of the writing style of female and male novella writers during the Enlightenment. This objective is important for several reasons. First, research on novellas was overlooked for a long time, as they were seen as sensationalist works and considered unsuitable for academic research<sup>2</sup>. Second, the central cultural value of novellas was often ignored<sup>2</sup>. Most importantly, however, the role, influence and practices of women in traditional historiography and their position in public life have not been sufficiently studied<sup>2</sup>.
 
 As perspectives on the first two points have shifted within the academic community, our aim is to contribute to the advancement of research on Enlightenment novels. We aim to make specific contributions to existing research concerning gender and the potentially associated aesthetic features, specifically narrative form. In doing so, we shine as much light on the male gender as the female gender. We think this is important to point out, as women's contributions in classical history are overshadowed, while new cultural history seeks to shine additional light on them. Their work deserves equal attention and analysis.  
 
 ### Thesis Statement  
-During the Enlightenment, the novella gained in popularity as a more widely accepted literary form, largely due to the expansion of reading beyond the upper class to the middle class, especially young women (Hunter, 1996)<sup>x</sup>. Women of this period were increasingly asserting their right to both emotion and reason, with the novella - particularly the epistolary form - serving as an important vehicle for this expression (Dipiero, as cited in Brewer, 2014; Hunter, 1996)<sup>x</sup>. This was reflected in the fact that more women began to read and the profession of authorship was no longer exclusively for men (Dipiero, as cited in Brewer, 2014; Hunter, 1996)<sup>x</sup>. Given the growing acceptance of such narratives, we expect to see a rise in the number of women writers employing the epistolary format in their works.  
+During the Enlightenment, the novella gained in popularity as a more widely accepted literary form, largely due to the expansion of reading beyond the upper class to the middle class, especially young women<sup>2</sup>. Women of this period were increasingly asserting their right to both emotion and reason, with the novella - particularly the epistolary form - serving as an important vehicle for this expression<sup>1,2</sup>. This was reflected in the fact that more women began to read and the profession of authorship was no longer exclusively for men<sup>1,2</sup>. Given the growing acceptance of such narratives, we expect to see a rise in the number of women writers employing the epistolary format in their works.  
 
 ### Documentation of the Introduction, context & project’s objectives
 The current section has proven to be the most challenging aspect of the ongoing project. Formulating a well-defined and pertinent research question that aligns with the available data proved to be a significant hurdle, largely due to a lack of comprehensive knowledge and expertise in the domain of French novels. Additionally, our focus was predominantly on the execution of the project, rather than on the theoretical underpinnings.
@@ -56,21 +56,19 @@ However, this approach had other shortcomings. These shortcomings are named with
 #### Notes
 <small>
 
-1) 
-2)
-3)
-4)
+1) Brewer, D. (Ed.). (2014). *The Cambridge companion to the French enlightenment*. Cambridge University Press.
+2) Hunter, J. P. (1996). The novel and social/cultural history. *The Cambridge Companion to the Eighteenth-Century Novel*, 9-40.
 </small>
 
 ## Data acquisition
-The dataset consists of 200 french novels written during the enlightenment era, and their metadata. This era is characterized by its exploration of contrasting ideas, social diversity, and the complex synthesis of material and spiritual realms, often challenging rigid societal roles and conventional forms of knowledge, especially in relation to self-understanding<sup>x</sup>  .
+The dataset consists of 200 french novels written during the enlightenment era, and their metadata. This era is characterized by its exploration of contrasting ideas, social diversity, and the complex synthesis of material and spiritual realms, often challenging rigid societal roles and conventional forms of knowledge, especially in relation to self-understanding<sup>1</sup>  .
 
 ![Fig. 1 - Comparison of proportion of narrative forms per decade](https://github.com/xingyun-w/Introduction-to-Digital-Humanities-and-Social-Analytics-Group6/blob/e3c2db4e6920796d1bc05763f87e075e44d5a484/resources/img/Screenshot%202024-09-22%20at%2022.09.42.png)  
-Fig. 1 - Comparison of proportion of narrative forms per decade<sup>x</sup>
+Fig. 1 - Comparison of proportion of narrative forms per decade<sup>2</sup>
 
-The authors / compilers of the corpus have stated that they have composed the body to reflect the historical distribution of the parameters gender, year of first publication, and narrative form<sup>x</sup> based on the 1977 “Bibliographie du genre romanesque français, 1751-1800”. Given that we are thus working with a balanced database representative of the general body of works of the time, our conclusions can to an extent be extrapolated to this larger body of data. 
+The authors / compilers of the corpus have stated that they have composed the body to reflect the historical distribution of the parameters gender, year of first publication, and narrative form<sup>1</sup> based on the 1977 “Bibliographie du genre romanesque français, 1751-1800”. Given that we are thus working with a balanced database representative of the general body of works of the time, our conclusions can to an extent be extrapolated to this larger body of data. 
 
-However; not all parameters are balanced, and thus we do need to be attentive to not introduce unbalanced parameters into our analysis when intending to extrapolate our findings towards the general french enlightenment literary corpus. Additionally, the accuracy of the body of works listed by the bibliography which the corpus represents can be debated: As argued by Darnton<sup>x</sup>, literature during the enlightenment period was subject to strong state censorship prompting authors to resort to publishing their work clandestinely, outside of legal channels. As women were expected to write about topics and to use forms that were deemed appropriate to their gender, we can expect their publications often to have landed in that domain. A bibliography of the french enlightenment based on archived publishing data therefore is a questionable source at best.
+However; not all parameters are balanced, and thus we do need to be attentive to not introduce unbalanced parameters into our analysis when intending to extrapolate our findings towards the general french enlightenment literary corpus. Additionally, the accuracy of the body of works listed by the bibliography which the corpus represents can be debated: As argued by Robert Darnton<sup>1</sup>, literature during the enlightenment period was subject to strong state censorship prompting authors to resort to publishing their work clandestinely, outside of legal channels. As women were expected to write about topics and to use forms that were deemed appropriate to their gender, we can expect their publications often to have landed in that domain. A bibliography of the french enlightenment based on archived publishing data therefore is a questionable source at best.
 
 Furthermore; As the novels themselves are written in the French language and translation will take away from the needed nuance in the texts, we have chosen not to use the corpus itself initially, but rather focus on the metadata at hand for our analysis. However the data is available in case we do find observable trends in the metadata that we further wish to analyze based on keywords.
 
@@ -87,13 +85,8 @@ While working on a preliminary line of inquiry, in which we intended to look for
 #### Notes
 <small>
 
-1) DiPiero, Thomas. “Enlightenmentliterature.” Chapter. In The Cambridge Companion to the French Enlightenment, edited by Daniel Brewer, 137–52. Cambridge Companions to Literature. Cambridge: Cambridge University Press, 2014.
-
-2) Röttgermann, Julia. “The Collection Of Eighteenth-Century French Novels 1751–1800”, Journal Of Open Humanities Data 10 (1 januari 2024), https://doi.org/10.5334/johd.201.
-
-3)
-
-4)
+1)  DiPiero, Thomas. “Enlightenmentliterature.” Chapter. In *The Cambridge Companion to the French Enlightenment*, edited by Daniel Brewer, 137–52. Cambridge Companions to Literature. Cambridge: Cambridge University Press, 2014.
+2) Röttgermann, Julia. “The Collection Of Eighteenth-Century French Novels 1751–1800”, *Journal Of Open Humanities Data 10* (1 januari 2024), https://doi.org/10.5334/johd.201.
 </small>
 
 ## Data Preprocessing Steps
@@ -151,9 +144,9 @@ Throughout the project, each team member contributed to discussions and decision
 We considered using logistic regression to assess gender-based trends in narrative form use, with narrative form as the dependent variable, gender as the independent variable, and an interaction term between time and gender to examine changes over time. However, despite some observable trends, the results were not statistically significant in our context. Therefore, we proceeded with Chi-square tests, as they were more suitable for analyzing categorical relationships.
 
 ### Documentation and Sustainability:
-The project's data and code are accessible through our GitHub repository at https://github.com/xingyun-w/Introduction-to-Digital-Humanities-and-Social-Analytics-Group6. This repository includes all necessary files, such as the metadata, Python scripts, README file. In the README file, We ensure clear documentation for environment setup and dependencies, providing transparency and easy reproducibility. Additionally, the repository contains an 'img' folder with all visualizations created during the project.
+The project's data and code are accessible through our [GitHub repository](https://github.com/xingyun-w/Introduction-to-Digital-Humanities-and-Social-Analytics-Group6). This repository includes all necessary files, such as the metadata, Python scripts, README file. In the README file, We ensure clear documentation for environment setup and dependencies, providing transparency and easy reproducibility. Additionally, the repository contains an 'img' folder with all visualizations created during the project.
 
-The dataset used for this project is sourced from MiMoText/balance_novels for the Digital Humanities course. 
+The dataset used for this project is sourced from [MiMoText/balance_novels](https://github.com/MiMoText/roman18/blob/master/metadata.tsv) for the Digital Humanities course. 
 The code has been designed in a modular way, which makes it easy to modify or extend specific parts of the analysis without affecting other components. The dataset used in the project is publicly available and distributed under an open-source license, permitting other researchers to freely use, modify, and distribute the code and data, as long as proper credit is given to the original authors.
 Reuse Potential
 Linguistic Analysis: Researchers can use the dataset for linguistic tasks, such as analyzing language used by male versus female authors.
@@ -167,7 +160,7 @@ Some novels in the dataset are missing key metadata such as the author’s occup
 #### Wikidata and its reliability :  
 During the research, multiple sub questions were considered, including "Are there noticeable correlations between specific authors' occupations and literary form trends during this period?". This led to the enrichment of the dataset with an additional parameter, 'author_occupation', which relied on the pre-existing 'author_wikidata' parameter. After further research, it was confirmed that Wikidata is a sister project of Wikipedia, both of which can be edited by anyone. This allowed us to question the reliability of the information added to the dataset, as there was no indication whether it was correct/confirmed by official institutions.
 #### Validity:  
-Consequently, the reliability issue raises validity concerns which made us consider forsaking the use of additionally acquired data. It posed a threat to the outcome of our research as the process of gathering data in Wikidata is not transparent. Validity is crucial in quantitative research because it ensures that the data accurately represents the variables being studied, allowing for meaningful and trustworthy conclusions. If data cannot be verified, the findings of the research may be skewed or misinterpreted, leading to erroneous conclusions. 
+Consequently, the reliability issue raises validity concerns which made us consider forsaking the use of additionally acquired data. It posed a threat to the outcome of our research as the process of gathering data in Wikidata is not transparent. Validity is crucial in quantitative research because it ensures that the data accurately represents the variables being studied, allowing for meaningful and trustworthy conclusions. If data cannot be verified, the findings of the research may be skewed or misinterpreted, leading to erroneous conclusions<sup>1</sup>. 
 #### Classification of occupations :  
 Many individuals had multiple professions, and Wikipedia/data classifications or similar references do not always accurately reflect whether these individuals made a living off a particular occupation or simply held a title. Noticing a correlation involving the parameter ‘occupation’ proves hard, as career shifts are not always adequately captured, leaving researchers with no contextualisation as to the specific period in the individual's life connected to the primary occupation. Thus, the relevance of authors' occupations in relation to the dataset could not be directly established.  
 Nevertheless, subsequent research revealed that by 1750, the novella had become a significant force in literary history, capable of influencing the careers of both male and female writers. It would have been intriguing to examine which authors were able to sustain themselves financially through their writing and which were compelled to pursue other professions. This approach could have shed light on the evolution of literary careers and the shifting dynamics of authors' livelihoods. It became evident that this idea was untenable, given that there were insufficient opportunities to obtain reliable data on writers' occupations in the time preceding the deadline. Therefore we restricted the scope of our analysis to gender as a factor influencing narrative form. This was a more straightforward approach and was also more aligned with the specific dataset of French novels under examination.  
@@ -180,17 +173,21 @@ Despite efforts to create a balanced dataset, the 200 novels may not fully captu
 Focusing on the balanced parameters gender and form allowed us to minimise the impact of biases connected to representation of groups, such as female authors or marginalised social classes
 Handling modern-day bias :  our modern day perspective could introduce bias in interpreting trends, especially related to gender and occupation. The used methodology allowed us to minimise subjective bias, focusing on observable trends, rather than speculative interpretations. For example, the way gender roles or narrative forms were understood in the eighteenth century differs significantly from today. Imposing contemporary values on historical data could lead to misinterpretation of trends or the erasure of important cultural nuances.
 Documenting the decision-making processes within the group is a key ethical consideration. Keeping a record of data collection, analysis methods and interpretation processes, ensured that our work is transparent and open to critique. Acknowledging the limitations of the dataset allowed us to maintain accountability when it comes to the representation of historical trends, making sure the steps taken during the research can be traced in a later point in time. 
+---
+#### Notes
+<small>
 
-
-
-
-
+1) Bryman, Alan. 2015. *Social Research Methods*. 6th ed. London, England: Oxford University Press.
+2) Ganganwar, Vaishali. "An Overview of Classification Algorithms for Imbalanced Datasets." *International Journal of Emerging Technology and Advanced Engineering 2, no. 4* (2012): 42-47. Accessed October 12, 2024. https://www.researchgate.net/profile/Vaishali-Ganganwar/publication/292018027_An_overview_of_classification_algorithms_for_imbalanced_datasets/links/58c7707a458515478dc4c68b/An-overview-of-classification-algorithms-for-imbalanced-datasets.pdf.  
+</small>
 
 ## Results
 
 
 
-On first sight, it becomes apparent that the distribution of authors based on gender is skewed heavily towards male authors across the observed time frame, with a slow rise of female authorship visible towards the end of the century. French women’s role in literature was particularly notable in the evolution of the female role. Early on, women primarily wrote in genres considered acceptable for them, such as moral treatises, educational novels, and children’s literature. However, as time progressed, female authors began to explore a broader range of genres, reflecting their growing presence and influence in the literary world.<sup>x</sup>
+On first sight, it becomes apparent that the distribution of authors based on gender is skewed heavily towards male authors across the observed time frame, with a slow rise of female authorship visible towards the end of the century. French women’s role in literature was particularly notable in the evolution of the female role. Early on, women primarily wrote in genres considered acceptable for them, such as moral treatises, educational novels, and children’s literature. However, as time progressed, female authors began to explore a broader range of genres, reflecting their growing presence and influence in the literary world.<sup>1</sup>
+
+
 
 Fig. x: Distribution of Narrative Forms by Gender and Time Period
 Our data show that over time, there has been a modest increase in the number of women writing novellas. This increase is statistically significant during three distinct periods: 1766-1770, 1786-1790, and 1796-1800.
@@ -203,25 +200,36 @@ The results of the chi-square tests reveal varying levels of association between
 
 However, three key periods stood out with significant associations. The periods 1766-1770 (p = 0.047), 1786-1790 (p = 0.019), and 1796-1800 (p = 0.024). To further investigate these significant periods, a residual analysis was conducted to understand the specific patterns underlying the chi-square results. This analysis of standardised residuals provides insights into which narrative forms were disproportionately associated with each gender.
 
+[GRAPH]
 
 Between 1766 and 1770, we are able to observe a significant association between gender and narrative form for the first time; it becomes apparent that in this period, female writers favor epistemological writing more than men,as evidenced by consistently positive residuals.
 This period was one of political and social unrest, partucilarly surrounding the debates on personal freedom and national identity following the 7 years war and the rise of enlightenment ideals
 
+[GRAPH]
 
 Between 1786 and 1790, the Mixed/Dialogue form is strongly preferred by female authors, while male authors under-use the form. This is confirmed by positive residuals for females and negative residuals for males.
 This period coincides with the aftermath of the american revolution and the beginning of the french revolution, two events concerned with issues of liberty, equality and rights 
 
+[GRAPH]
+
 Between 1796 and 1800 there is again a significant favour towards Epistolary forms by female authors in this period, again with male writers under-using the narrative form.
 Here, we see the intensification of the french revolution and the rise of napoleon, which created an atmoshpere of uncertainty and personal reflection. Would this be a reason  that the epistolary form of writing allowed female authors to mediate between the public and the private, engaging with public discourses in a style that was accepted for women?
-Reflection [on the workflow’s effectiveness and any lessons learned, including suggestions for future improvements or research directions]
 
-Workflow effectiveness and lessons learned
+---
+#### Notes
+<small>
+
+1)  McIlvanney, Siobhán. “Women Writers and Readers: The Beginnings of French Women’s Journals and Le Journal Des Dames (1759–1778).” In *Figurations of the Feminine in the Early French Women’s Press*, 1758–1848, 57–98. Liverpool University Press, 2019. https://doi.org/10.2307/j.ctvqr1bqv.6.  
+</small>  
+  
+## Reflection
+
+### Workflow effectiveness and lessons learned  
 Throughout the project, each team member contributed to discussions and decision-making. The team used weekly group meetings and WhatsApp to ensure that everyone remained informed and that tasks progressed smoothly. 
 Addressing incomplete or inconsistent entries ensured that our analysis was based on reliable data, like the balanced parameters. The discussions surrounding the main parameters to be used in the research highlighted the importance of transparency in the data documentation. The diverse backgrounds of the team members allowed us to approach the dataset from different angles, focusing on the cultural and social aspects brought forward by a number of our study fields. 
 
-Future research directions 
-as the authors suggest, further research can investigate linguistic differences between genders, as well as literary and cultural trends during the enlightenment
-could employ nlp to analyse the contents of the novellas themselves, rather than focusing primarily on the metadata [as we’re doing] - identifying thematic trends 
+### Future research directions 
+as the authors suggest, further research can investigate linguistic differences between genders, as well as literary and cultural trends during the enlightenment could employ nlp to analyse the contents of the novellas themselves, rather than focusing primarily on the metadata [as we’re doing] - identifying thematic trends.  
 Partnering with experts in eighteenth-century literature could improve the accuracy and richness of the analysis. These collaborations would help ensure that historical nuances are fully integrated into the interpretation of trends.
 Analysing connections between authors, their patrons, or literary circles to uncover how relationships influenced literary production and trends over time?
 
@@ -230,8 +238,21 @@ During the research project, issues connected to historical context and the chal
 
 
 ## Team description
-Nikol - mkda [art history with a focus on media studies]  
-Jo - communication, american studies  
-Robert - anthropology  
-Rob - information science with a focus on journalism and information interpretation  
-Xingyun - computer science  
+| Name | Curicculum|
+|------|-----------|
+Nikol | Mkda - Art history with a focus on media studies  
+Joanna | Communication, american studies  
+Robert | Anthropology  
+Rob | Information science with a focus on journalism and information interpretation  
+Xingyun | Computer science  
+
+## References
+
+- Brewer, D. (Ed.). (2014). *The Cambridge companion to the French enlightenment*. Cambridge University Press.
+- Bryman, Alan. 2015. *Social Research Methods*. 6th ed. London, England: Oxford University Press.
+- DiPiero, Thomas. “Enlightenmentliterature.” Chapter. In *The Cambridge Companion to the French Enlightenment*, edited by Daniel Brewer, 137–52. Cambridge Companions to Literature. Cambridge: Cambridge University Press, 2014.
+- Ganganwar, Vaishali. "An Overview of Classification Algorithms for Imbalanced Datasets." *International Journal of Emerging Technology and Advanced Engineering 2, no. 4* (2012): 42-47. Accessed October 12, 2024. https://www.researchgate.net/profile/Vaishali-Ganganwar/publication/292018027_An_overview_of_classification_algorithms_for_imbalanced_datasets/links/58c7707a458515478dc4c68b/An-overview-of-classification-algorithms-for-imbalanced-datasets.pdf. 
+- Hunter, J. P. (1996). The novel and social/cultural history. *The Cambridge Companion to the Eighteenth-Century Novel*, 9-40.
+- McIlvanney, Siobhán. “Women Writers and Readers: The Beginnings of French Women’s Journals and Le Journal Des Dames (1759–1778).” In *Figurations of the Feminine in the Early French Women’s Press*, 1758–1848, 57–98. Liverpool University Press, 2019. https://doi.org/10.2307/j.ctvqr1bqv.6.  
+- Röttgermann, Julia. “The Collection Of Eighteenth-Century French Novels 1751–1800”, *Journal Of Open Humanities Data 10* (1 januari 2024), https://doi.org/10.5334/johd.201.
+
