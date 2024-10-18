@@ -26,10 +26,10 @@ The main aim of our approach is to shed light on an aspect of the writing style 
 
 As perspectives on the first two points have shifted within the academic community, our aim is to contribute to the advancement of research on Enlightenment novels. We aim to make specific contributions to existing research concerning gender and the potentially associated aesthetic features, specifically narrative form. In doing so, we shine as much light on the male gender as the female gender. We think this is important to point out, as women's contributions in classical history are overshadowed, while new cultural history seeks to shine additional light on them. Their work deserves equal attention and analysis.  
 
-## Thesis Statement  
+### Thesis Statement  
 During the Enlightenment, the novella gained in popularity as a more widely accepted literary form, largely due to the expansion of reading beyond the upper class to the middle class, especially young women (Hunter, 1996)<sup>x</sup>. Women of this period were increasingly asserting their right to both emotion and reason, with the novella - particularly the epistolary form - serving as an important vehicle for this expression (Dipiero, as cited in Brewer, 2014; Hunter, 1996)<sup>x</sup>. This was reflected in the fact that more women began to read and the profession of authorship was no longer exclusively for men (Dipiero, as cited in Brewer, 2014; Hunter, 1996)<sup>x</sup>. Given the growing acceptance of such narratives, we expect to see a rise in the number of women writers employing the epistolary format in their works.  
 
-Documentation of the Introduction, context & project’s objectives
+### Documentation of the Introduction, context & project’s objectives
 The current section has proven to be the most challenging aspect of the ongoing project. Formulating a well-defined and pertinent research question that aligns with the available data proved to be a significant hurdle, largely due to a lack of comprehensive knowledge and expertise in the domain of French novels. Additionally, our focus was predominantly on the execution of the project, rather than on the theoretical underpinnings.
 The consequence of this approach was protracted meetings that yielded few tangible outcomes. There was an undue emphasis on the tasks that needed to be completed, rather than on the possibilities offered by the data set and how they might contribute to the field of digital humanities.  
 
