@@ -184,7 +184,7 @@ Documenting the decision-making processes within the group is a key ethical cons
 
 ## Results
 
-![Fig. 3 - Distribution of Narrative Forms by Gender and Time Period](https://github.com/xingyun-w/Introduction-to-Digital-Humanities-and-Social-Analytics-Group6/blob/2efbe0b8bc1ac3324ddda0e1da98c3ac2e6e878b/img/distribution.png)  
+![Fig. 3 - Distribution of Narrative Forms by Gender and Time Period]
 Fig. 3 - Distribution of Narrative Forms by Gender and Time Period
 
 On first sight, it becomes apparent that the distribution of authors based on gender is skewed heavily towards male authors across the observed time frame, with a slow rise of female authorship visible towards the end of the century. French women’s role in literature was particularly notable in the evolution of the female role. Early on, women primarily wrote in genres considered acceptable for them, such as moral treatises, educational novels, and children’s literature. However, as time progressed, female authors began to explore a broader range of genres, reflecting their growing presence and influence in the literary world.<sup>1</sup>
