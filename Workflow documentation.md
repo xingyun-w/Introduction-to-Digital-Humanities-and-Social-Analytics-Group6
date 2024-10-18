@@ -63,7 +63,7 @@ However, this approach had other shortcomings. These shortcomings are named with
 ## Data acquisition
 The dataset consists of 200 french novels written during the enlightenment era, and their metadata. This era is characterized by its exploration of contrasting ideas, social diversity, and the complex synthesis of material and spiritual realms, often challenging rigid societal roles and conventional forms of knowledge, especially in relation to self-understanding<sup>1</sup>  .
 
-![Fig. 1 - Comparison of proportion of narrative forms per decade](https://github.com/xingyun-w/Introduction-to-Digital-Humanities-and-Social-Analytics-Group6/blob/e3c2db4e6920796d1bc05763f87e075e44d5a484/resources/img/Screenshot%202024-09-22%20at%2022.09.42.png)  
+![Fig. 1 - Comparison of proportion of narrative forms per decade](https://github.com/xingyun-w/Introduction-to-Digital-Humanities-and-Social-Analytics-Group6/blob/2efbe0b8bc1ac3324ddda0e1da98c3ac2e6e878b/img/Screenshot%202024-09-22%20at%2022.09.42.png)  
 Fig. 1 - Comparison of proportion of narrative forms per decade<sup>2</sup>
 
 The authors / compilers of the corpus have stated that they have composed the body to reflect the historical distribution of the parameters gender, year of first publication, and narrative form<sup>1</sup> based on the 1977 “Bibliographie du genre romanesque français, 1751-1800”. Given that we are thus working with a balanced database representative of the general body of works of the time, our conclusions can to an extent be extrapolated to this larger body of data. 
@@ -72,7 +72,7 @@ However; not all parameters are balanced, and thus we do need to be attentive to
 
 Furthermore; As the novels themselves are written in the French language and translation will take away from the needed nuance in the texts, we have chosen not to use the corpus itself initially, but rather focus on the metadata at hand for our analysis. However the data is available in case we do find observable trends in the metadata that we further wish to analyze based on keywords.
 
-![fig. 2 - List of metadata parameters](https://github.com/xingyun-w/Introduction-to-Digital-Humanities-and-Social-Analytics-Group6/blob/e3c2db4e6920796d1bc05763f87e075e44d5a484/resources/img/Screenshot%202024-09-22%20at%2022.40.22.png)  
+![fig. 2 - List of metadata parameters](https://github.com/xingyun-w/Introduction-to-Digital-Humanities-and-Social-Analytics-Group6/blob/2efbe0b8bc1ac3324ddda0e1da98c3ac2e6e878b/img/Screenshot%202024-09-22%20at%2022.40.22.png)  
 Fig. 2 - List of metadata parameters
 
 
@@ -169,10 +169,11 @@ The authors of the dataset claim that "the parameters gender, year of first publ
 #### Representativeness of the dataset:  
 Despite efforts to create a balanced dataset, the 200 novels may not fully capture the diversity of literary production during the period due to limitations in available digitized materials or the small sample size compared to the total production of novels in France during 1751–1800. We acknowledge and transparently document the limitations in representativeness when interpreting results. The dataset could also be expanded in future research to improve representativeness.
 
-### Ethical considerations 
+### Ethical considerations
 Focusing on the balanced parameters gender and form allowed us to minimise the impact of biases connected to representation of groups, such as female authors or marginalised social classes
 Handling modern-day bias :  our modern day perspective could introduce bias in interpreting trends, especially related to gender and occupation. The used methodology allowed us to minimise subjective bias, focusing on observable trends, rather than speculative interpretations. For example, the way gender roles or narrative forms were understood in the eighteenth century differs significantly from today. Imposing contemporary values on historical data could lead to misinterpretation of trends or the erasure of important cultural nuances.
 Documenting the decision-making processes within the group is a key ethical consideration. Keeping a record of data collection, analysis methods and interpretation processes, ensured that our work is transparent and open to critique. Acknowledging the limitations of the dataset allowed us to maintain accountability when it comes to the representation of historical trends, making sure the steps taken during the research can be traced in a later point in time. 
+
 ---
 #### Notes
 <small>
@@ -183,11 +184,13 @@ Documenting the decision-making processes within the group is a key ethical cons
 
 ## Results
 
-
+![Fig. 3 - Distribution of Narrative Forms by Gender and Time Period](https://github.com/xingyun-w/Introduction-to-Digital-Humanities-and-Social-Analytics-Group6/blob/2efbe0b8bc1ac3324ddda0e1da98c3ac2e6e878b/img/distribution.png)  
+Fig. 3 - Distribution of Narrative Forms by Gender and Time Period
 
 On first sight, it becomes apparent that the distribution of authors based on gender is skewed heavily towards male authors across the observed time frame, with a slow rise of female authorship visible towards the end of the century. French women’s role in literature was particularly notable in the evolution of the female role. Early on, women primarily wrote in genres considered acceptable for them, such as moral treatises, educational novels, and children’s literature. However, as time progressed, female authors began to explore a broader range of genres, reflecting their growing presence and influence in the literary world.<sup>1</sup>
 
-
+![Fig. 4 - Distribution of Narrative Forms by Gender and Time Period](https://github.com/xingyun-w/Introduction-to-Digital-Humanities-and-Social-Analytics-Group6/blob/2efbe0b8bc1ac3324ddda0e1da98c3ac2e6e878b/img/p_values_acrossTime.png)  
+Fig. 4 - P values across time
 
 Fig. x: Distribution of Narrative Forms by Gender and Time Period
 Our data show that over time, there has been a modest increase in the number of women writing novellas. This increase is statistically significant during three distinct periods: 1766-1770, 1786-1790, and 1796-1800.
@@ -200,17 +203,20 @@ The results of the chi-square tests reveal varying levels of association between
 
 However, three key periods stood out with significant associations. The periods 1766-1770 (p = 0.047), 1786-1790 (p = 0.019), and 1796-1800 (p = 0.024). To further investigate these significant periods, a residual analysis was conducted to understand the specific patterns underlying the chi-square results. This analysis of standardised residuals provides insights into which narrative forms were disproportionately associated with each gender.
 
-[GRAPH]
+![Fig. 5 - Standardized Residuals for Narrative Forms in 1766 - 1770](https://github.com/xingyun-w/Introduction-to-Digital-Humanities-and-Social-Analytics-Group6/blob/2efbe0b8bc1ac3324ddda0e1da98c3ac2e6e878b/img/sr_1766-1770.png)  
+Fig. 5 - Standardized Residuals for Narrative Forms in 1766 - 1770
 
 Between 1766 and 1770, we are able to observe a significant association between gender and narrative form for the first time; it becomes apparent that in this period, female writers favor epistemological writing more than men,as evidenced by consistently positive residuals.
 This period was one of political and social unrest, partucilarly surrounding the debates on personal freedom and national identity following the 7 years war and the rise of enlightenment ideals
 
-[GRAPH]
+![Fig. 6 - Standardized Residuals for Narrative Forms in 1786 and 1790](https://github.com/xingyun-w/Introduction-to-Digital-Humanities-and-Social-Analytics-Group6/blob/2efbe0b8bc1ac3324ddda0e1da98c3ac2e6e878b/img/sr_1786-1790.png)  
+Fig. 6 - Distribution of Narrative Forms by Gender and Time Period
 
 Between 1786 and 1790, the Mixed/Dialogue form is strongly preferred by female authors, while male authors under-use the form. This is confirmed by positive residuals for females and negative residuals for males.
 This period coincides with the aftermath of the american revolution and the beginning of the french revolution, two events concerned with issues of liberty, equality and rights 
 
-[GRAPH]
+![Fig. 7 - Standardized Residuals for Narrative Forms in 1796 - 1800](https://github.com/xingyun-w/Introduction-to-Digital-Humanities-and-Social-Analytics-Group6/blob/2efbe0b8bc1ac3324ddda0e1da98c3ac2e6e878b/img/sr_1796-1800.png)  
+Fig. 7 - Standardized Residuals for Narrative Forms in 1796 - 1800
 
 Between 1796 and 1800 there is again a significant favour towards Epistolary forms by female authors in this period, again with male writers under-using the narrative form.
 Here, we see the intensification of the french revolution and the rise of napoleon, which created an atmoshpere of uncertainty and personal reflection. Would this be a reason  that the epistolary form of writing allowed female authors to mediate between the public and the private, engaging with public discourses in a style that was accepted for women?
